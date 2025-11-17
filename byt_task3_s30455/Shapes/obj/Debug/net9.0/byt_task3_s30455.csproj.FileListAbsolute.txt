@@ -1,0 +1,14 @@
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\bin\Debug\net9.0\byt_task3_s30455.exe
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\bin\Debug\net9.0\byt_task3_s30455.deps.json
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\bin\Debug\net9.0\byt_task3_s30455.runtimeconfig.json
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\bin\Debug\net9.0\byt_task3_s30455.dll
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\bin\Debug\net9.0\byt_task3_s30455.pdb
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\obj\Debug\net9.0\byt_task3_s30455.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\obj\Debug\net9.0\byt_task3_s30455.AssemblyInfoInputs.cache
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\obj\Debug\net9.0\byt_task3_s30455.AssemblyInfo.cs
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\obj\Debug\net9.0\byt_task3_s30455.csproj.CoreCompileInputs.cache
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\obj\Debug\net9.0\byt_task3_s30455.dll
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\obj\Debug\net9.0\refint\byt_task3_s30455.dll
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\obj\Debug\net9.0\byt_task3_s30455.pdb
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\obj\Debug\net9.0\byt_task3_s30455.genruntimeconfig.cache
+C:\Users\abogo\RiderProjects\byt_task3_s30455\byt_task3_s30455\obj\Debug\net9.0\ref\byt_task3_s30455.dll

@@ -1,0 +1,14 @@
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\bin\Debug\net9.0\Shapes.exe
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\bin\Debug\net9.0\Shapes.deps.json
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\bin\Debug\net9.0\Shapes.runtimeconfig.json
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\bin\Debug\net9.0\Shapes.dll
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\bin\Debug\net9.0\Shapes.pdb
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\obj\Debug\net9.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\obj\Debug\net9.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\obj\Debug\net9.0\Shapes.AssemblyInfo.cs
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\obj\Debug\net9.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\obj\Debug\net9.0\Shapes.dll
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\obj\Debug\net9.0\refint\Shapes.dll
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\obj\Debug\net9.0\Shapes.pdb
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\obj\Debug\net9.0\Shapes.genruntimeconfig.cache
+C:\Users\abogo\RiderProjects\byt_task3_s30455\Shapes\obj\Debug\net9.0\ref\Shapes.dll
